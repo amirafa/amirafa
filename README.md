@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    body { background-color: #121212; color: #d4d4d4; font-family: 'Courier New', monospace; padding: 20px; }
-    .container { display: flex; align-items: flex-start; gap: 40px; }
-    .ascii { color: #f5f5f5; font-size: 10px; line-height: 10px; white-space: pre; }
-    .info { font-size: 16px; }
-    .header { color: #ff9e64; font-weight: bold; } /* نارنجی برای سرتیتر */
-    .label { color: #7aa2f7; font-weight: bold; } /* آبی برای برچسب‌ها */
-    .value { color: #c0caf5; } /* سفید برای مقادیر */
-    .separator { color: #565f89; }
-    .green { color: #9ece6a; } /* سبز برای اعداد مثبت */
-    .red { color: #f7768e; } /* قرمز برای اعداد منفی */
-</style>
-</head>
-<body>
-
-<div class="container">
-    <div class="ascii">
-<!-- ASCII ART -->
+<pre align="center">
 ...........................................-++####++-................................
 .........................................##############--.-..........................
 .......................................-####################++.......................
@@ -52,56 +32,36 @@
 .....................................-++------------++----------+-...................
 ....................................--+++++---....-----------+++-....................
 ...................................---++#++++---+-------+++++++......................
-...................................----+++##+++++++++++++++++-.......................
-..................................--------+++##############-.........................
-...............................-------------++++++++++++----.........................
-............................+##---------------++++++++-----..........................
-..........................+###----------------++++++++-----..........................
-.......................+#######---------------+++++-------...........................
-...................-############+-------------------------...........................
-................##################---------+++-+----------...........................
-............+######################+--------+++++++-------#-.........................
-........+############################+-------------------+####.......................
-....+##################################+-----------------+######.....................
--########################################+---------------+########+..................
-############################################------------+############+...............
-###############################################+-------+################+............
-###########################################################################+.........
-##############################################################################+......
-#################################################################################....
-    </div>
+...................################################################################....
+</pre>
 
-    <div class="info">
-        <div class="header">amirhossein@rafati --------------------------------------------~</div>
-        <p>
-            <span class="label">OS:</span> ......................... Front-End Supervisor<br>
-            <span class="label">Host:</span> ....................... Tesmino | تسمینو<br>
-            <span class="label">Location:</span> .................... Rasht, Gilan, Iran<br>
-            <span class="label">Expertise:</span> .................. Vue.js, TypeScript, Nuxt<br>
-            <span class="label">IDE:</span> ........................ VSCode, JetBrains
-        </p>
+<h1 align="center">امیرحسین رفعتی</h1>
+<p align="center">Front-End Supervisor</p>
 
-        <div class="header">- Skills -----------------------------------------------------------~</div>
-        <p>
-            <span class="label">Languages.Prog:</span> ........ JavaScript, TypeScript, Vue.js<br>
-            <span class="label">Languages.Tools:</span> ....... Cloudflare, Git, NPM, Yarn<br>
-            <span class="label">Specialties:</span> ........... A/B Testing, Chrome Extensions, CORS
-        </p>
+---
 
-        <div class="header">- Projects ---------------------------------------------------------~</div>
-        <p>
-            <span class="label">Vuexp:</span> ..................... A/B Testing for Vue 3<br>
-            <span class="label">allAllow:</span> .................... CORS Proxy for Cloudflare<br>
-            <span class="label">Alternator:</span> .................. Chrome Extension Productivity
-        </p>
+### 💻 درباره من
+سلام! من **امیرحسین رفعتی** هستم، توسعه‌دهنده و سرپرست تیم فرانت‌اند در **تسمینو (Tesmino)**. ساکن رشت هستم و تمرکز اصلی من بر روی ساخت رابط‌های کاربری مقیاس‌پذیر با استفاده از اکوسیستم Vue.js است.
 
-        <div class="header">- Contact ----------------------------------------------------------~</div>
-        <p>
-            <span class="label">LinkedIn:</span> .................... linkedin.com/in/amirhossein-rafati<br>
-            <span class="label">GitHub:</span> ...................... github.com/amirafa
-        </p>
-    </div>
-</div>
+### 🛠 مهارت‌ها و تخصص‌ها
+*   **توسعه:** JavaScript, TypeScript, Vue.js, Nuxt.js
+*   **ابزارها و زیرساخت:** Cloudflare, Git, NPM, Yarn
+*   **تخصص‌های ویژه:** 
+    *   پیاده‌سازی تست‌های A/B
+    *   توسعه Chrome Extensions
+    *   مدیریت CORS و Proxying
 
-</body>
-</html>
+### 🚀 پروژه‌های شاخص
+*   **[Vuexp](https://github.com/amirafa/vuexp):** ابزاری برای پیاده‌سازی A/B Testing در فریم‌ورک Vue 3.
+*   **[allAllow](https://github.com/amirafa/allAllow):** پروکسی CORS برای سرویس‌های Cloudflare.
+*   **[Alternator](https://github.com/amirafa/alternator):** افزونه کروم با تمرکز بر افزایش بهره‌وری.
+
+### 📫 ارتباط با من
+*   **LinkedIn:** [linkedin.com/in/amirhossein-rafati](https://www.linkedin.com/in/amirhossein-rafati)
+*   **GitHub:** [github.com/amirafa](https://github.com/amirafa)
+*   **Location:** رشت، گیلان، ایران
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirafa&show_icons=true&theme=tokyonight" alt="Amirhossein's GitHub stats" />
+</p>
