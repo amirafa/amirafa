@@ -29,43 +29,38 @@
 ::::::::::::::::-:::::=----++-=-::...::::::::::::::
 -:--:::::::::::::::---------:----:......:::::::::::
 -----:::::::::::::::::::::=:::::::....:...:::::::::
-
-
 ```
 
 </td>
 <td width="50%">
   
 ```text
-Plaintext
-amirhossein@github --------------------------------------------------------
-. Role: .......................... Front-End Supervisor
-. Location: ...................... Rasht, Gilan, Iran
-. Summary: ....................... Experienced Front-End Supervisor 
+amirhossein@github ----------------------------------------------------
+. Role: ................ Front-End Supervisor
+. Location: ............ Rasht, Gilan, Iran
+. Summary: ............. Experienced Front-End Supervisor 
                                    specializing in Vue.js, open-source 
                                    tool development, and solving 
                                    complex web architecture challenges.
 
-- Stack ------------------------------------------------------------------
-. Core Languages: ................ JavaScript, TypeScript
-. Frameworks: .................... Vue.js, Nuxt.js, Angular, React
-. Ecosystem & Tools: ............. Cloudflare, Chrome Extensions
+- Stack ---------------------------------------------------------------
+. Core Languages: ...... JavaScript, TypeScript
+. Frameworks: .......... Vue.js, Nuxt.js, Angular, React
+. Ecosystem & Tools: ... Cloudflare, Chrome Extensions
 
-- Experience -------------------------------------------------------------
-. Tesmino ........................ Front-End Supervisor (2021 - Present)
+- Experience ----------------------------------------------------------
+. Tesmino .............. Front-End Supervisor (2021 - Present)
                                    • Lead frontend architecture
                                    • Developed Vuexp for A/B Testing
                                    • Created allAllow CORS proxy
                                    • Developed Alternator Chrome Ext.
-. ARS NETWORK (M) SDN BHD ........ Android Developer (2018 - 2019)
-. Smartiza ....................... Game Designer (2016 - 2018)
+. ARS NETWORK (M) ...... Android Developer (2018 - 2019)
+. Smartiza ............. Game Designer (2016 - 2018)
 
-- Education --------------------------------------------------------------
-. Quchan University .............. B.Eng - Computer Programming
-. University of Guilan ........... B.Eng - Visiting Student
+- Education -----------------------------------------------------------
+. Quchan University .... B.Eng - Computer Programming
+. University of Guilan . B.Eng - Visiting Student
 
-- Contact ----------------------------------------------------------------
-. LinkedIn: ...................... [linkedin.com/in/amirhossein-rafati](https://linkedin.com/in/amir
 ```
 </td>
 </tr>
